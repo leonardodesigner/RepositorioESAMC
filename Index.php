@@ -1,2 +1,2 @@
-index.php(<?php include_once("Index.html"); ?>)
+Index.php(<?php include_once("Index.html"); ?>)
 
